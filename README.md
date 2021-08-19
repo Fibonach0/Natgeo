@@ -1,2 +1,0 @@
-# Natgeo
-Nic + Cloudflare + GitHub
